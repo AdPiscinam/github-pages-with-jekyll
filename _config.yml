@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 date: 2022-05-25
----
+
 
 author: AdPiscinam
 email: your-email@domain.com
@@ -14,3 +14,4 @@ github_username:  adpiscinam # DO NOT include the @ character, or else the build
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
